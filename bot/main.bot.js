@@ -165,5 +165,5 @@ if(main == true){
   //main
   client.login("mainbottoken");
 }else{
-  client.login("serverbottoken");
+  client.login("ODk2NjY4ODcxMjMzMjU3NTEy.YWKd9g.1HLXUz4WoFvca4E9LRj6IkYnGnc");
 }
